@@ -15,3 +15,9 @@
 - Maven
 - CentOS
 
+
+
+## 笔记整理
+
+[【尚硅谷】RabbitMQ](https://blog.shiguang666.eu.org/2024/10/10/3149a4506563/)
+
