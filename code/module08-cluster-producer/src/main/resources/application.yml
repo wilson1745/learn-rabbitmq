@@ -1,0 +1,12 @@
+spring:
+  rabbitmq:
+    host: 192.168.10.66
+    port: 11111
+    username: shiguang
+    password: 123456
+    virtual-host: /
+    publisher-confirm-type: CORRELATED #交换机的确认
+    publisher-returns: true #队列的确认
+logging:
+  level:
+    com.shiguang.mq.config.MQProducerAckConfig: info
