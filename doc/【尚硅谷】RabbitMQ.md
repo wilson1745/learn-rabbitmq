@@ -1,13 +1,3 @@
----
-title: 【尚硅谷】RabbitMQ
-categories: 学习笔记
-tags:
-  - 尚硅谷
-  - RabbitMQ
-cover: 'https://img.shiguangdev.cn/i/2024/08/28/66cedaf5d014a.jpeg'
-abbrlink: d33f5a0f
-date: 2024-10-10 20:30:47
----
 > 在线视频:[尚硅谷2024最新RabbitMQ教程，消息中间件RabbitMQ迅速上手！](https://www.bilibili.com/video/BV1sw4m1U7Qe)
 > 官方资料: [尚硅谷2024最新版RabbitMQ视频](https://pan.baidu.com/s/14quDrJSfphJfC6seNo6-CA?pwd=yyds  )
 >
