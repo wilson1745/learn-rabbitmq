@@ -31,7 +31,7 @@ rabbitmq:3.13-management
 
 访问后台管理界面：http://192.168.200.100:15672
 
-![image-20231102194452610](.\assets\image-20231102194452610.png)
+![image-20231102194452610](assets/image-20231102194452610.png)
 
 
 
@@ -39,7 +39,7 @@ rabbitmq:3.13-management
 
 使用上面创建Docker容器时指定的默认用户名、密码登录：
 
-![image-20231102194633997](.\assets\image-20231102194633997.png)
+![image-20231102194633997](assets/image-20231102194633997.png)
 
 
 
@@ -47,7 +47,7 @@ rabbitmq:3.13-management
 
 
 
-![image-20231102194746743](.\assets\image-20231102194746743.png)
+![image-20231102194746743](assets/image-20231102194746743.png)
 
 
 
@@ -131,4 +131,4 @@ systemctl enable docker
 
 上述操作执行完成后，再次查看Docker版本：
 
-![image-20240321113218105](./assets/image-20240321113218105.png)
+![image-20240321113218105](assets/image-20240321113218105.png)

@@ -10,7 +10,7 @@
 
 
 
-![(P) -> [|||] -> (C)](assets\python-one.png)
+![(P) -> [|||] -> (C)](assets/python-one.png)
 
 
 
@@ -20,7 +20,7 @@
 
 ### ①消息发送端（生产者）
 
-![images](assets\img54.png)
+![images](assets/img54.png)
 
 
 
@@ -30,7 +30,7 @@
 
 ### ②消息接收端（消费者）
 
-![images](assets\img55.png)
+![images](assets/img55.png)
 
 
 
@@ -129,11 +129,11 @@ public class Producer {
 
 ### ②查看效果
 
-![image-20231102210451880](assets\image-20231102210451880.png)
+![image-20231102210451880](assets/image-20231102210451880.png)
 
 
 
-![image-20231102210812912](assets\image-20231102210812912.png)
+![image-20231102210812912](assets/image-20231102210812912.png)
 
 
 
@@ -229,4 +229,4 @@ public class Consumer {
 
 因为消息被消费掉了，所以RabbitMQ服务器上没有了：
 
-![image-20231102211243699](assets\image-20231102211243699.png)
+![image-20231102211243699](assets/image-20231102211243699.png)

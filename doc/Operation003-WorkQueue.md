@@ -94,7 +94,7 @@ public class Producer {
 
 ## 3、发送消息效果
 
-![img](assets\img60-1698977979067-1.png)
+![img](assets/img60-1698977979067-1.png)
 
 
 
@@ -150,8 +150,8 @@ public class Consumer1 {
 
 最终两个消费端程序竞争结果如下：<br/>
 
-![image-20231103103841644](assets\image-20231103103841644.png)
+![image-20231103103841644](assets/image-20231103103841644.png)
 
 <br/>
 
-![image-20231103103955165](assets\image-20231103103955165.png)
+![image-20231103103955165](assets/image-20231103103955165.png)

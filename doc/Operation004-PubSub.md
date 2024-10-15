@@ -157,7 +157,7 @@ public class Consumer2 {
 
 还是先启动消费者，然后再运行生产者程序发送消息：
 
-![img](assets\img66.png)
+![img](assets/img66.png)
 
 
 
